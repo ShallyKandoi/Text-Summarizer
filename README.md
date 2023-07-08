@@ -1,4 +1,4 @@
-# Text-Summarizer 
+# Text Summarizer 
 * An NLP-based project which summarizes a long paragraph into a few sentences while preserving the semantics and important information.
 * It takes input text from the user and generates both an Extractive and Abstractive summary of it.
 * Extractive summarization means identifying important sections of the text and generating them on a frequency or closeness basis, verbatim producing a subset of the sentences from the original text.
